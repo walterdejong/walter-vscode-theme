@@ -1,0 +1,52 @@
+{
+	"name": "walter-vscode-theme",
+	"displayName": "Walter Theme for VS Code",
+	"description": "UI Themes for Visual Studio Code.",
+	"version": "1.0.0",
+	"publisher": "Heiho.net",
+	"preview": false,
+	"icon": "assets/icon.png",
+	"readme": "README.md",
+	"author": {
+		"name": "Walter de Jong <walter@heiho.net>"
+	},
+	"license": "Free",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"bugs": {
+		"url": "https://github.com/walterdejong/walter-vscode-theme/issues",
+		"email": "walter@heiho.net"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/walterdejong/walter-vscode-theme.git"
+	},
+	"homepage": "https://github.com/walterdejong/walter-vscode-theme",
+	"qna": "https://github.com/walterdejong/walter-vscode-theme.git/issues",
+	"keywords": [
+		"Walter",
+		"heiho",
+		"Theme",
+		"Themes"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "Walter in the Dark",
+				"label": "Walter in the Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/walter-dark.json"
+			},
+			{
+				"id": "Walter in the Light",
+				"label": "Walter in the Light",
+				"uiTheme": "vs",
+				"path": "./themes/walter-light.json"
+			}
+		]
+	}
+}
