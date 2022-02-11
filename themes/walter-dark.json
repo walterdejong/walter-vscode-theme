@@ -3,28 +3,29 @@
 	"name": "Walter in the Dark",
 	"colors": {
 		"editor.background": "#000",
-		"editor.foreground": "#c7c7c7",
-		"editor.inactiveSelectionBackground": "#3A3D41",
-		"editorIndentGuide.background": "#404040",
-		"editorIndentGuide.activeBackground": "#707070",
+		"editor.foreground": "#ccc",
+		"editorIndentGuide.background": "#444",
+		"editorIndentGuide.activeBackground": "#777",
 		"editorWhitespace.foreground": "#777",
-		"list.dropBackground": "#383B3D",
+		"list.dropBackground": "#333",
 		"activityBarBadge.background": "#007ACC",
-		"sideBarTitle.foreground": "#BBBBBB",
-		"input.placeholderForeground": "#A6A6A6",
-		"settings.textInputBackground": "#292929",
-		"settings.numberInputBackground": "#292929",
+		"sideBarTitle.foreground": "#bbb",
+		"input.placeholderForeground": "#aaa",
+		"input.foreground": "#ccc",
+		"settings.textInputBackground": "#333",
+		"settings.numberInputBackground": "#333",
 		"menu.background": "#252526",
-		"menu.foreground": "#CCCCCC",
-		"statusBarItem.remoteForeground": "#FFF",
+		"menu.foreground": "#ccc",
+		"statusBarItem.remoteForeground": "#fff",
 		"statusBarItem.remoteBackground": "#16825D",
 		"editorCursor.background": "#000",
-		"editorCursor.foreground": "#00e000",
-		"editorRuler.foreground": "#404040",
-		"editor.selectionBackground": "#505050",
-		"editor.selectionHighlightBackground": "#202020",
-		"editor.findMatchBackground": "#505050",
-		"editor.findMatchHighlightBackground": "#202020"
+		"editorCursor.foreground": "#0e0",
+		"editorRuler.foreground": "#444",
+		"editor.selectionBackground": "#555",
+		"editor.selectionHighlightBackground": "#222",
+		"editor.inactiveSelectionBackground": "#333",
+		"editor.findMatchBackground": "#555",
+		"editor.findMatchHighlightBackground": "#222"
 	},
 	"tokenColors": [
 		{
@@ -33,7 +34,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -57,7 +58,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#00c700"
+				"foreground": "#0c0"
 			}
 		},
 		{
@@ -77,7 +78,7 @@
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#c7c700"
+				"foreground": "#dd0"
 			}
 		},
 		{
@@ -117,14 +118,14 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"background": "#c70000",
+				"background": "#d00",
 				"foreground": "#fff"
 			}
 		},
 		{
 			"scope": "markup.underline",
 			"settings": {
-				"foreground": "#00c7c7"
+				"foreground": "#0cc"
 			}
 		},
 		{
@@ -143,19 +144,19 @@
 		{
 			"scope": "markup.italic",
 			"settings": {
-				"foreground": "#c7c700"
+				"foreground": "#dd0"
 			}
 		},
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#00c700"
+				"foreground": "#0c0"
 			}
 		},
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"background": "#c70000",
+				"background": "#d00",
 				"foreground": "#fff"
 			}
 		},
@@ -186,7 +187,7 @@
 		{
 			"scope": "markup.raw.block.markdown",
 			"settings": {
-				"foreground": "#00c700"
+				"foreground": "#0c0"
 			}
 		},
 		{
@@ -205,7 +206,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#c7c700"
+				"foreground": "#dd0"
 			}
 		},
 		{
@@ -217,7 +218,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -247,31 +248,31 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#00c7c7"
+				"foreground": "#0cc"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#00c7c7"
+				"foreground": "#0cc"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#00c7c7"
+				"foreground": "#0cc"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#00c7c7"
+				"foreground": "#0cc"
 			}
 		},
 		{
 			"scope": "string.quoted.docstring.multi.python",
 			"settings": {
-				"foreground": "#00c7c7"
+				"foreground": "#0cc"
 			}
 		},
 		{
@@ -291,7 +292,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#ddd"
 			}
 		},
 		{
@@ -304,7 +305,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -379,7 +380,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#ddd"
 			}
 		},
 		{
@@ -392,7 +393,7 @@
 		{
 			"scope": "entity.name",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -404,13 +405,13 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -422,19 +423,19 @@
 		{
 			"scope": "entity.name.function.preprocessor",
 			"settings": {
-				"foreground": "#c7c700"
+				"foreground": "#dd0"
 			}
 		},
 		{
 			"scope": "entity.name.label",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
 			"scope": "entity.name.namespace",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -449,19 +450,19 @@
 		{
 			"scope": "entity.name.operator.custom-literal",
 			"settings": {
-				"foreground": "#c7c700"
+				"foreground": "#dd0"
 			}
 		},
 		{
 			"scope": "entity.name.operator.custom-literal.number",
 			"settings": {
-				"foreground": "#c7c700"
+				"foreground": "#dd0"
 			}
 		},
 		{
 			"scope": "entity.name.operator.custom-literal.string",
 			"settings": {
-				"foreground": "#00c7c7"
+				"foreground": "#0cc"
 			}
 		},
 		{
@@ -476,19 +477,19 @@
 		{
 			"scope": "variable.other.enummember",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
 			"scope": "variable.other.property",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		},
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#c7c7c7"
+				"foreground": "#ccc"
 			}
 		}
 	]
