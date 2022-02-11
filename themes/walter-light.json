@@ -61,13 +61,13 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -75,31 +75,31 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -128,7 +128,7 @@
 		{
 			"scope": "markup.underline",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 		{
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -153,7 +153,7 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
@@ -166,31 +166,31 @@
 		{
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
 			"scope": "markup.raw.block.markdown",
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
@@ -209,7 +209,7 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
@@ -221,61 +221,61 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "meta.diff.header",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "storage.modifier",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "string.quoted.docstring.multi.python",
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
@@ -314,19 +314,19 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 		{
 			"scope": "support.type",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -360,13 +360,13 @@
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
@@ -390,7 +390,7 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 		{
 			"scope": "keyword.control.directive",
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
@@ -453,19 +453,19 @@
 		{
 			"scope": "entity.name.operator.custom-literal",
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
 			"scope": "entity.name.operator.custom-literal.number",
 			"settings": {
-				"foreground": "#070"
+				"foreground": "#060"
 			}
 		},
 		{
 			"scope": "entity.name.operator.custom-literal.string",
 			"settings": {
-				"foreground": "#04a"
+				"foreground": "#03a"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 				"keyword.operator.delete"
 			],
 			"settings": {
-				"foreground": "#800"
+				"foreground": "#900"
 			}
 		},
 		{
