@@ -20,7 +20,7 @@
 		"statusBarItem.remoteBackground": "#16825D",
 		"editorCursor.background": "#000",
 		"editorCursor.foreground": "#00e000",
-		"editorRuler.foreground": "#004040",
+		"editorRuler.foreground": "#404040",
 		"editor.selectionBackground": "#505050",
 		"editor.selectionHighlightBackground": "#202020",
 		"editor.findMatchBackground": "#505050",
