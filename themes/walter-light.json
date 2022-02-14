@@ -170,6 +170,12 @@
 			}
 		},
 		{
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#000"
+			}
+		},
+		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
 				"foreground": "#900"

@@ -167,6 +167,12 @@
 			}
 		},
 		{
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#ccc"
+			}
+		},
+		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
 				"foreground": "#fff"
