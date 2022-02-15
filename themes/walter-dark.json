@@ -118,8 +118,7 @@
 		{
 			"scope": "invalid",
 			"settings": {
-				"background": "#d00",
-				"foreground": "#fff"
+				"foreground": "#f00"
 			}
 		},
 		{
