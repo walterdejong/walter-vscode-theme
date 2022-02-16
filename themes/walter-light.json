@@ -175,6 +175,12 @@
 			}
 		},
 		{
+			"scope": "punctuation.definition.comment",
+			"settings": {
+				"foreground": "#060"
+			}
+		},
+		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
 				"foreground": "#900"
