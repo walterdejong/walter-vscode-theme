@@ -214,7 +214,7 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#fff"
+				"foreground": "#000"
 			}
 		},
 		{
