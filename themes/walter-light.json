@@ -165,7 +165,7 @@
 			"scope": "markup.deleted",
 			"settings": {
 				"background": "#c00",
-				"foreground": "#fff"
+				"foreground": "#0f0"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 		{
 			"scope": "meta.preprocessor",
 			"settings": {
-				"foreground": "#fff"
+				"foreground": "#000"
 			}
 		},
 		{

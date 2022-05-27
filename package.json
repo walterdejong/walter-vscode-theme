@@ -2,7 +2,7 @@
 	"name": "walter-vscode-theme",
 	"displayName": "Walter Theme for VS Code",
 	"description": "UI Themes for Visual Studio Code.",
-	"version": "1.9.0",
+	"version": "1.10.0",
 	"publisher": "Heiho.net",
 	"preview": false,
 	"icon": "assets/icon.png",
