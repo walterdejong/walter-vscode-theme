@@ -248,6 +248,12 @@
 			}
 		},
 		{
+			"scope": "meta",
+			"settings": {
+				"foreground": "#000"
+			}
+		},
+		{
 			"scope": "storage",
 			"settings": {
 				"foreground": "#900"
