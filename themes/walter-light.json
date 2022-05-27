@@ -85,6 +85,12 @@
 			}
 		},
 		{
+			"scope": "constant.character",
+			"settings": {
+				"foreground": "#000"
+			}
+		},
+		{
 			"scope": "entity.name.tag",
 			"settings": {
 				"foreground": "#03a"
